@@ -15,6 +15,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 ## How to Contribute
 
 testest
+Please fork this repository and then issue pull requests for review.
 
 ### Copyritght
 
